@@ -2,15 +2,10 @@
 <h3 align="center">A Technophile from India</h3>
 
 - 🔭 **MS in CS at CU Boulder**
-
 - 🌱 **Love to Leetcode!**
-
 - 👯 **Actively seeking Software Engineer roles**
-
 - 🤝 **I love to solve real life problems using technology. I am always passionate to learn about new technologies.**
-
 - 💬 Links to my profile **https://linktr.ee/shaily_goyal**
-
 - 📫 How to reach me **https://www.linkedin.com/in/shaily-goyal-019541170/**
 
 <h3 align="left">Connect with me:</h3>
