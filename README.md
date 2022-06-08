@@ -7,6 +7,7 @@
 - 🤝 **I love to solve real life problems using technology. I am always passionate to learn about new technologies.**
 - 💬 Links to my profile **https://linktr.ee/shaily_goyal**
 - 📫 How to reach me **https://www.linkedin.com/in/shaily-goyal-019541170/**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
