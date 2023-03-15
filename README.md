@@ -3,7 +3,7 @@
 
 - 🔭 **MS in CS at CU Boulder**
 - 🌱 **Love to Leetcode!**
-- 👯 **Actively seeking Software Engineer roles**
+- 👯 **Actively seeking for Summer internship roles**
 - 🤝 **I love to solve real life problems using technology. I am always passionate to learn about new technologies.**
 - 💬 Links to my profile **https://linktr.ee/shaily_goyal**
 - 📫 How to reach me **https://www.linkedin.com/in/shaily-goyal-019541170/**
