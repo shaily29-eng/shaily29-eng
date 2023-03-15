@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaily Goyal</h1>
-<h3 align="center">A Technophile from India</h3>
+<h3 align="center">Technophile</h3>
 
 - 🔭 **MS in CS at CU Boulder**
 - 🌱 **Love to Leetcode!**
