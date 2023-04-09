@@ -2,7 +2,6 @@
 <!-- <h3 align="center">Technophile</h3> -->
 
 - 🔭 **MS in CS at CU Boulder**
-- 🌱 **Love to Leetcode!**
 - 👯 **Actively seeking for Summer internship roles**
 - 🤝 **I love to solve real life problems using technology. I am always passionate to learn about new technologies.**
 - 💬 Links to my profile **https://linktr.ee/shaily_goyal**
