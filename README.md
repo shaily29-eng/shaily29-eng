@@ -2,7 +2,7 @@
 <!-- <h3 align="center">Technophile</h3> -->
 
 - 🔭 **MS in CS at CU Boulder**
-- 👯 **Actively seeking for Summer internship roles**
+- 👯 **Actively seeking for full time roles**
 - 🤝 **I love to solve real life problems using technology. I am always passionate to learn about new technologies.**
 - 💬 Links to my profile **https://portfolio-shaily.netlify.app/**
 - 📫 How to reach me **https://www.linkedin.com/in/shaily-goyal-019541170/**
