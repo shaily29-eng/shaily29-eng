@@ -2,7 +2,7 @@
 <!-- <h3 align="center">Technophile</h3> -->
 
 - 🔭 **MS in CS at CU Boulder**
-- 👯 **I'm actively seeking software engineer and developer roles, with a keen interest in machine learning and data analytics positions.**
+- 👯 **Actively seeking software engineer and developer roles, with a keen interest in machine learning and data analytics positions.**
 - 💬 Links to my profile **https://portfolio-shaily.netlify.app/**
 - 📫 How to reach me **https://www.linkedin.com/in/shaily-goyal-019541170/**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaily29-eng&label=Profile%20views&color=129e00&style=plastic" alt="shaily29-eng" /> </p>
