@@ -4,8 +4,8 @@
 - 🔭 **MS in CS at CU Boulder**
 - 👯 **Actively seeking software engineer and developer roles, with a keen interest in ML and data analytics positions.**
 - 💬 Links to my profile **https://portfolio-shaily.netlify.app/**
-- 💬 Resume **https://www.dropbox.com/s/b494b9xwuo5rxhm/resume_shaily.pdf?dl=0**
-- 📫 How to reach me **https://www.linkedin.com/in/shaily-goyal-019541170/**
+- 💬 Resume **https://drive.google.com/file/d/1i8C-gd-NmoeyDXNUt2DCjH3MdOt4YYBj/view?usp=sharing**
+- 📫 How to reach me **https://www.linkedin.com/in/shailygoyal/**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaily29-eng&label=Profile%20views&color=129e00&style=plastic" alt="shaily29-eng" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -13,7 +13,6 @@
 <a href="https://twitter.com/shaily_goyal29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaily_goyal29" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shaily-goyal-019541170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaily-goyal-019541170/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shaily29_goyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shaily29_goyal/" height="30" width="40" /></a>
-<a href="https://leetcode.com/Shaily29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Shaily29/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
